@@ -1,4 +1,4 @@
-Samples that demonstrate using Tesseract from .net.
+Samples that demonstrate using [Tesseract .Net Wrapper](https://github.com/charlesw/tesseract).
 
 ## ConsoleDemo
 
