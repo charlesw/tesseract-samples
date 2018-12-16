@@ -71,8 +71,8 @@ namespace Tesseract.ConsoleDemo
                 Console.WriteLine("Details: ");
                 Console.WriteLine(e.ToString());
             }
-            //Console.Write("Press any key to continue . . . ");
-            //Console.ReadKey(true);
+            Console.Write("Press any key to continue . . . ");
+            Console.ReadKey(true);
         }
     }
 }
